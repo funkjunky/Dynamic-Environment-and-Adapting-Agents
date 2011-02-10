@@ -1,0 +1,11 @@
+This project is a demonstration of two things:
+An environment that is rational and moderately predictive using Bayesian Networks to control the changes
+and
+Agents reacting and adapting to an ever changing, yes partially predictable environment.
+
+My goal of the project was to have agents make predictions, and for those prediction to be rational, but not always correct. I was hoping in conclusion to the project agents would be using wisdom from previous times to make predictions the programmer could have forgotten about. Basically genetic algorithm for making predictions about the environment.
+
+The 2 developers working on this project with myself were:
+Gilles Paquette
+and
+Chris Xaerus
