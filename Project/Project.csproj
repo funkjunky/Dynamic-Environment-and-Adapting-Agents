@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AABAC68A-F73B-4967-A359-CBE60772B560}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Project</RootNamespace>
+    <AssemblyName>Project</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Compile Include="Agents\Agent.cs" />
+    <Compile Include="Agents\Behavior\Astar.cs" />
+    <Compile Include="Agents\buildings\dam.cs" />
+    <Compile Include="Agents\Houses\Cave.cs" />
+    <Compile Include="Agents\buildings\garden.cs" />
+    <Compile Include="Agents\Houses\House.cs" />
+    <Compile Include="Agents\buildings\woodmile.cs" />
+    <Compile Include="BayesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BayesForm.Designer.cs">
+      <DependentUpon>BayesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BayesNet\BayesEdge.cs" />
+    <Compile Include="BayesNet\BayesNet.cs" />
+    <Compile Include="BayesNet\BayesNode.cs" />
+    <Compile Include="Environment\EnvironmentMap.cs" />
+    <Compile Include="Environment\EnvironmentObject.cs" />
+    <Compile Include="Environment\EnvironmentObjects\dolphin.cs" />
+    <Compile Include="Environment\EnvironmentObjects\fish.cs" />
+    <Compile Include="Environment\EnvironmentObjects\ground.cs" />
+    <Compile Include="Environment\EnvironmentObjects\jackal.cs" />
+    <Compile Include="Environment\EnvironmentObjects\monkey.cs" />
+    <Compile Include="Environment\EnvironmentObjects\mountain.cs" />
+    <Compile Include="Environment\EnvironmentObjects\rabbit.cs" />
+    <Compile Include="Environment\EnvironmentObjects\shark.cs" />
+    <Compile Include="Environment\EnvironmentObjects\tree.cs" />
+    <Compile Include="Environment\EnvironmentObjects\water.cs" />
+    <Compile Include="Environment\EnvironmentObjects\wolf.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Timer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Extensions\Extensions.csproj">
+      <Project>{B6563C16-1AB0-4A44-AFCD-2B92B052BF1F}</Project>
+      <Name>Extensions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Multimap\Multimap.csproj">
+      <Project>{C83D273F-5FEE-4751-BD90-062EF2A6718E}</Project>
+      <Name>Multimap</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BayesForm.resx">
+      <DependentUpon>BayesForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

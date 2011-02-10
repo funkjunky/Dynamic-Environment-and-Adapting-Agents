@@ -1,0 +1,67 @@
+C:\Users\gilles\Desktop\499\trunk\499\testing\BayesNet\tester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gilles\Desktop\499\trunk\499\project\BayesNet\tester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gilles\Desktop\499\trunk\499\project\BayesNet\tester\bin\Debug\tester.exe
+C:\Users\gilles\Desktop\499\trunk\499\project\BayesNet\tester\bin\Debug\tester.pdb
+C:\Users\gilles\Desktop\499\trunk\499\project\BayesNet\tester\bin\Debug\Extensions.exe
+C:\Users\gilles\Desktop\499\trunk\499\project\BayesNet\tester\bin\Debug\Multimap.exe
+C:\Users\gilles\Desktop\499\trunk\499\project\BayesNet\tester\bin\Debug\Project.exe
+C:\Users\gilles\Desktop\499\trunk\499\project\BayesNet\tester\bin\Debug\Extensions.pdb
+C:\Users\gilles\Desktop\499\trunk\499\project\BayesNet\tester\bin\Debug\Project.pdb
+C:\Users\gilles\Desktop\499\trunk\499\project\BayesNet\tester\bin\Debug\Multimap.pdb
+C:\Users\gilles\Desktop\499\trunk\499\project\BayesNet\tester\obj\Debug\tester.exe
+C:\Users\gilles\Desktop\499\trunk\499\project\BayesNet\tester\obj\Debug\tester.pdb
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\tester\bin\Debug\tester.exe
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\tester\bin\Debug\tester.pdb
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\tester\bin\Debug\Extensions.exe
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\tester\bin\Debug\Multimap.exe
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\tester\bin\Debug\Project.exe
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\tester\bin\Debug\Extensions.pdb
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\tester\bin\Debug\Project.pdb
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\tester\bin\Debug\Multimap.pdb
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\tester\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\tester\obj\Debug\tester.exe
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\tester\obj\Debug\tester.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\tester\bin\Debug\tester.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\tester\bin\Debug\tester.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\tester\bin\Debug\Extensions.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\tester\bin\Debug\Multimap.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\tester\bin\Debug\Project.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\tester\bin\Debug\Extensions.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\tester\bin\Debug\Project.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\tester\bin\Debug\Multimap.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\tester\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\tester\obj\Debug\tester.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\tester\obj\Debug\tester.pdb
+C:\499CP\499\trunk\project\BayesNet\tester\bin\Debug\tester.exe
+C:\499CP\499\trunk\project\BayesNet\tester\bin\Debug\tester.pdb
+C:\499CP\499\trunk\project\BayesNet\tester\bin\Debug\Extensions.exe
+C:\499CP\499\trunk\project\BayesNet\tester\bin\Debug\Multimap.exe
+C:\499CP\499\trunk\project\BayesNet\tester\bin\Debug\Project.exe
+C:\499CP\499\trunk\project\BayesNet\tester\bin\Debug\Extensions.pdb
+C:\499CP\499\trunk\project\BayesNet\tester\bin\Debug\Project.pdb
+C:\499CP\499\trunk\project\BayesNet\tester\bin\Debug\Multimap.pdb
+C:\499CP\499\trunk\project\BayesNet\tester\obj\Debug\ResolveAssemblyReference.cache
+C:\499CP\499\trunk\project\BayesNet\tester\obj\Debug\tester.exe
+C:\499CP\499\trunk\project\BayesNet\tester\obj\Debug\tester.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\tester\bin\Debug\tester.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\tester\bin\Debug\tester.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\tester\bin\Debug\Extensions.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\tester\bin\Debug\Multimap.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\tester\bin\Debug\Project.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\tester\bin\Debug\Extensions.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\tester\bin\Debug\Project.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\tester\bin\Debug\Multimap.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\tester\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\tester\obj\Debug\tester.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\tester\obj\Debug\tester.pdb
+E:\Developer\499\trunk\project\BayesNetForm\tester\bin\Debug\tester.exe
+E:\Developer\499\trunk\project\BayesNetForm\tester\bin\Debug\tester.pdb
+E:\Developer\499\trunk\project\BayesNetForm\tester\bin\Debug\Extensions.exe
+E:\Developer\499\trunk\project\BayesNetForm\tester\bin\Debug\Multimap.exe
+E:\Developer\499\trunk\project\BayesNetForm\tester\bin\Debug\Project.exe
+E:\Developer\499\trunk\project\BayesNetForm\tester\bin\Debug\Extensions.pdb
+E:\Developer\499\trunk\project\BayesNetForm\tester\bin\Debug\Project.pdb
+E:\Developer\499\trunk\project\BayesNetForm\tester\bin\Debug\Multimap.pdb
+E:\Developer\499\trunk\project\BayesNetForm\tester\obj\Debug\ResolveAssemblyReference.cache
+E:\Developer\499\trunk\project\BayesNetForm\tester\obj\Debug\tester.exe
+E:\Developer\499\trunk\project\BayesNetForm\tester\obj\Debug\tester.pdb

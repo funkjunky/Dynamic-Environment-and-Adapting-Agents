@@ -1,0 +1,40 @@
+C:\Users\gilles\Desktop\499\trunk\499\testing\BayesNet\Extensions\bin\Debug\Extensions.exe
+C:\Users\gilles\Desktop\499\trunk\499\testing\BayesNet\Extensions\bin\Debug\Extensions.pdb
+C:\Users\gilles\Desktop\499\trunk\499\testing\BayesNet\Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gilles\Desktop\499\trunk\499\testing\BayesNet\Extensions\obj\Debug\Extensions.exe
+C:\Users\gilles\Desktop\499\trunk\499\testing\BayesNet\Extensions\obj\Debug\Extensions.pdb
+C:\499\trunk\project\BayesNet\Extensions\bin\Debug\Extensions.exe
+C:\499\trunk\project\BayesNet\Extensions\bin\Debug\Extensions.pdb
+C:\499\trunk\project\BayesNet\Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\499\trunk\project\BayesNet\Extensions\obj\Debug\Extensions.exe
+C:\499\trunk\project\BayesNet\Extensions\obj\Debug\Extensions.pdb
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\Extensions\bin\Debug\Extensions.exe
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\Extensions\bin\Debug\Extensions.pdb
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\Extensions\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\Extensions\obj\Debug\Extensions.exe
+D:\Users\Jay\Documents\Visual Studio 2008\Projects\499SVN\trunk\project\BayesNet\Extensions\obj\Debug\Extensions.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\Extensions\bin\Debug\Extensions.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\Extensions\bin\Debug\Extensions.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\Extensions\obj\Debug\Extensions.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\trunk\project\BayesNet\Extensions\obj\Debug\Extensions.pdb
+C:\499CP\499\trunk\project\BayesNet\Extensions\bin\Debug\Extensions.exe
+C:\499CP\499\trunk\project\BayesNet\Extensions\bin\Debug\Extensions.pdb
+C:\499CP\499\trunk\project\BayesNet\Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\499CP\499\trunk\project\BayesNet\Extensions\obj\Debug\Extensions.exe
+C:\499CP\499\trunk\project\BayesNet\Extensions\obj\Debug\Extensions.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\Extensions\bin\Debug\Extensions.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\Extensions\bin\Debug\Extensions.pdb
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\Extensions\obj\Debug\Extensions.exe
+C:\Documents and Settings\Owner\Desktop\Computer Science\499\New Folder\mayday\trunk\project\BayesNetForm\Extensions\obj\Debug\Extensions.pdb
+C:\damnitjay\trunk\project\BayesNetForm\Extensions\bin\Debug\Extensions.exe
+C:\damnitjay\trunk\project\BayesNetForm\Extensions\bin\Debug\Extensions.pdb
+C:\damnitjay\trunk\project\BayesNetForm\Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\damnitjay\trunk\project\BayesNetForm\Extensions\obj\Debug\Extensions.exe
+C:\damnitjay\trunk\project\BayesNetForm\Extensions\obj\Debug\Extensions.pdb
+E:\Developer\499\trunk\project\BayesNetForm\Extensions\bin\Debug\Extensions.exe
+E:\Developer\499\trunk\project\BayesNetForm\Extensions\bin\Debug\Extensions.pdb
+E:\Developer\499\trunk\project\BayesNetForm\Extensions\obj\Debug\ResolveAssemblyReference.cache
+E:\Developer\499\trunk\project\BayesNetForm\Extensions\obj\Debug\Extensions.exe
+E:\Developer\499\trunk\project\BayesNetForm\Extensions\obj\Debug\Extensions.pdb
